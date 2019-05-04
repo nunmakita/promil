@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomcam/vpdemo1.git"
+    "url": "git+https://github.com/nunmakita/gewel.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tomcam/vpdemo1/issues"
+    "url": "https://github.com/nunmakita/gewel/issues"
   },
-  "homepage": "https://github.com/tomcam/vpdemo1#readme",
+  "homepage": "https://github.com/nunmakita/gewel#readme",
   "dependencies": {
     "vuepress": "^1.0.0-alpha.47"
   }
